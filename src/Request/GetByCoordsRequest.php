@@ -1,6 +1,6 @@
 <?php
 namespace ThankSong\OpenWeather\Request;
-use Thanksong\OpenWeather\Response\OpenWeatherResponse;
+use ThankSong\OpenWeather\Response\OpenWeatherResponse;
 
 /**
  * 通过经纬度查询天气的请求类

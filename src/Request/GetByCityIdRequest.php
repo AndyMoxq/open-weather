@@ -2,7 +2,7 @@
 
 namespace ThankSong\OpenWeather\Request;
 
-use Thanksong\OpenWeather\Response\OpenWeatherResponse;
+use ThankSong\OpenWeather\Response\OpenWeatherResponse;
 
 /**
  * 通过城市ID获取天气请求类

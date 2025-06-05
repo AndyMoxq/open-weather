@@ -13,7 +13,7 @@ return [
      * OpenWeatherMap API Key
      * @see https://home.openweathermap.org/users/sign_up
      */
-    'api_key' => 'YOUR_API_KEY',
+    'api_key' => env('OPENWEATHER_API_KEY', 'YOUR_API_KEY'),
 
     /**
      * Units for the API response

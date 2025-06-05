@@ -2,7 +2,8 @@
 
 namespace ThankSong\OpenWeather\Request;
 
-use Thanksong\OpenWeather\Response\OpenWeatherResponse;
+use ThankSong\OpenWeather\Response\OpenWeatherResponse;
+
 use InvalidArgumentException;
 
 /**
